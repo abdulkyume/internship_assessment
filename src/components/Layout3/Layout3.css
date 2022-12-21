@@ -1,0 +1,8 @@
+.commonDivStyle {
+  background-color: #da1e5d;
+  border-radius: 14px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
